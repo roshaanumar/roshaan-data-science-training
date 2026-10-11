@@ -1,0 +1,19 @@
+Company Compliance Policy
+
+Enhanced Due Diligence
+
+Enhanced Due Diligence (EDD) is a process used for customers who present a higher level of risk. It involves collecting additional information about the customer, understanding the source of funds, reviewing business activities, and conducting additional monitoring.
+
+EDD may be required for high-risk customers, politically exposed persons, customers from high-risk jurisdictions, or customers involved in complex transactions.
+
+Customer Due Diligence
+
+Customer Due Diligence (CDD) is the process of identifying and verifying customers before establishing a business relationship. It includes collecting customer information and assessing the customer's risk level.
+
+Risk Assessment
+
+Customers are categorized as low, medium, or high risk. High-risk customers require additional monitoring and may require Enhanced Due Diligence.
+
+Transaction Monitoring
+
+The company monitors customer transactions to identify unusual or suspicious activity. Transactions that meet certain risk criteria may be reviewed by the compliance team.

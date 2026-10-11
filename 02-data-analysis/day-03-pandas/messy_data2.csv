@@ -1,0 +1,21 @@
+id,name,age,email,signup_date,city,salary
+1,Bilal Ahmed,26,bilal.ahmed@email.com,2022-01-10,Lahore,58000
+2,Fatima Noor,31,fatima.noor@email.com,2022-03-22,Karachi,64000
+3,Bilal Ahmed,26,bilal.ahmed@email.com,2022-01-10,Lahore,58000
+4,,38,imran.sheikh@email.com,2021-11-05,Islamabad,71000
+5,Zainab Malik,,zainab.malik@email.com,2022-05-18,Multan,
+6,Adeel Raza,27,adeel.raza@email.com,invalid-date,Lahore,52000
+7,Mehwish Iqbal,180,mehwish.iqbal@email.com,2022-07-01,Faisalabad,60000
+8,Saad Khan,33,saad.khan-no-at-sign,2022-08-12,Karachi,66000
+9,,,,,,
+10,Hira Aslam,24,hira.aslam@email.com,2022-09-09,Peshawar,49000
+11,Hira Aslam,24,hira.aslam@email.com,2022-09-09,Peshawar,49000
+12,Waqas Ahmed,-8,waqas.ahmed@email.com,2022-10-14,Lahore,53000
+13,Sadia Rehman,29,sadia.rehman@email.com,2022-11-20,Karachi,62000
+14,  Kamran Yousuf  , 41 , kamran.yousuf@email.com ,2022-12-03, Islamabad ,80000
+15,Nimra Shahid,25,nimra.shahid@email.com,2023-01-15,Lahore,51000
+16,Nimra Shahid,25,nimra.shahid@email.com,2023-01-15,Lahore,51000
+17,Tariq Mehmood,36,tariq.mehmood@email.com,2023-02-28,Multan,69000
+18,Sobia Anwar,abc,sobia.anwar@email.com,2023-03-19,Karachi,57000
+19,Farhan Sattar,30,farhan.sattar@email.com,2023-04-22,Faisalabad,63000
+20,,28,unknown.person2@email.com,2023-05-11,,50000
